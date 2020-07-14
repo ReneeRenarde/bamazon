@@ -19,4 +19,4 @@ Bamazon is an Amazon-like storefront which utilizes MySQL and node.js. The app w
 * The app will require npm inquirer and npm mysql.
 
 * **Screenshot Images**
-![working](/bamazon.png)
+!![Working Code View](https://github.com/ReneeRenarde/bamazon/blob/master/bamazon.PNG)
